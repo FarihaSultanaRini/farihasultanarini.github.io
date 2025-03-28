@@ -2,11 +2,8 @@ title: Fariha Sultana Rini
 #logo: /assets/img/headshot_circle.png
 #description: 
 
-description: Experienced in data science with a strong focus on NLP, 
-covering the entire pipeline from data processing to embedding transformation 
-for downstream tasks like a Bangla book recommendation engine. Additionally, 
-optimized YOLO-based object detection models to enhance performance. Visit [Somikoron AI](https://somikoron.ai/) 
-to see our works in the AI field.
+description: >
+Experienced in data science with a strong focus on NLP,covering the entire pipeline from data processing to embedding transformation  for downstream tasks like a Bangla book recommendation engine. Additionally,  optimized YOLO-based object detection models to enhance performance. Visit [Somikoron AI](https://somikoron.ai/)  to see our works in the AI field.
 
 #show_downloads: true
 theme: jekyll-theme-minimal
