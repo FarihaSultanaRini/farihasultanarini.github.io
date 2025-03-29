@@ -1,7 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python (NumPy,Pandas,Seaborn,Matplotlib,Scikit-learn,TensorFlow,Pytorch)
-#### NLP Computer Vision: LLMs(BERT, LLaMA),Word2Vec, N-Gram,YOLO
+#### Programming Languages: Python (NumPy,Pandas,Seaborn,Matplotlib,Scikit-learn,TensorFlow,Pytorch)
+#### NLP and Computer Vision: LLMs(BERT, LLaMA),Word2Vec, N-Gram,YOLO
 #### Framework: Django,Mesa(Agent-based modeling),Langchain
 
 ## Education
