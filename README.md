@@ -53,10 +53,26 @@ Developed a COVID-19 simulation model to balance economic impact and mortality r
 
 
 ### Ongoing Research:
-Researching AI ethics, focusing on fairness, bias mitigation, and responsible AI deployment.
+Fine-tuning YOLOv5 for imbalanced and complex medical data
 
 
-## Academic Project
+## Project
+
+### Vocal Fold Disease  Segmentation  | YOLOv5, Instance Segmentation
+[Guithub Link](https://github.com/FarihaSultanaRini/Yolov5_Instance_Segmentation)
+
+Detect, segment, and classify six categories — Glottal Space, Incubator, Other Tissue, Pathology, Surgical Instrument, and Vocal Fold — from vocal fold images.
+
+### Bridge Crack Detection  | YOLOv5, Object detection
+[Guithub Link](https://github.com/FarihaSultanaRini/Yolov5_Object_Detection)
+
+Detect cracks in bridges.
+
+### Customer Churn Prediction | MLFlow,S3,Docker
+[Guithub Link](https://github.com/FarihaSultanaRini/Tracking_with_MLflow)
+customer churn prediction using 7 different machine learning models.
+
+Detect cracks in bridges.
 
 ### Flood Alert System | Ardunio Uno,GSM,Water Sensor,Buzzer
 [Guithub Link](https://github.com/FarihaSultanaRini/Flood_Level_detector)
