@@ -72,7 +72,6 @@ Detect cracks in bridges.
 [Guithub Link](https://github.com/FarihaSultanaRini/Tracking_with_MLflow)
 customer churn prediction using 7 different machine learning models.
 
-Detect cracks in bridges.
 
 ### Flood Alert System | Ardunio Uno,GSM,Water Sensor,Buzzer
 [Guithub Link](https://github.com/FarihaSultanaRini/Flood_Level_detector)
