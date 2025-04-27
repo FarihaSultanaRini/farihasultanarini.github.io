@@ -59,39 +59,40 @@ Fine-tuning YOLOv5 for imbalanced and complex medical data
 ## Project
 
 ### Vocal Fold Disease  Segmentation  | YOLOv5, Instance Segmentation
-[Guithub Link](https://github.com/FarihaSultanaRini/Yolov5_Instance_Segmentation)
+[Github Link](https://github.com/FarihaSultanaRini/Yolov5_Instance_Segmentation)
 
 Detect, segment, and classify six categories — Glottal Space, Incubator, Other Tissue, Pathology, Surgical Instrument, and Vocal Fold — from vocal fold images.
 
 ### Bridge Crack Detection  | YOLOv5, Object detection
-[Guithub Link](https://github.com/FarihaSultanaRini/Yolov5_Object_Detection)
+[Github Link](https://github.com/FarihaSultanaRini/Yolov5_Object_Detection)
 
 Detect cracks in bridges.
 
 ### Customer Churn Prediction | MLFlow,S3,Docker
-[Guithub Link](https://github.com/FarihaSultanaRini/Tracking_with_MLflow)
+[Github Link](https://github.com/FarihaSultanaRini/Tracking_with_MLflow)
+
 customer churn prediction using 7 different machine learning models.
 
 
 ### Flood Alert System | Ardunio Uno,GSM,Water Sensor,Buzzer
-[Guithub Link](https://github.com/FarihaSultanaRini/Flood_Level_detector)
+[Github Link](https://github.com/FarihaSultanaRini/Flood_Level_detector)
 
 A flood alarm system that sends signals according to the water level to avoid sudden flood-related accidents.
 
 
 ### Vangariwala | Python,Django,Html,CSS,Bootstrap
-[Guithub Link](https://github.com/FarihaSultanaRini/Vangariwala123)
+[Github Link](https://github.com/FarihaSultanaRini/Vangariwala123)
 
 A website that provides a platform where people can sell their unused things from their homes, and offices.
 
 
 ### Bank Management System | Java
-[Guithub Link](https://github.com/FarihaSultanaRini/Company_Management_System)
+[Github Link](https://github.com/FarihaSultanaRini/Company_Management_System)
 
 Using this system, users can deposit money, withdraw money, or update their account information.
 
 ### Student Management System | MSSQL
-[Guithub Link](https://github.com/FarihaSultanaRini/Student_Management_System)
+[Github Link](https://github.com/FarihaSultanaRini/Student_Management_System)
 
 A student management system that allows storing, updating, deleting, or creating of student data.
 
